@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.jpg" width="220" style="border-radius: 16px;" />
+  <img src="icon.png" width="220" />
 </p>
 
 <h1 align="center">Hai, Saya FΔR!</h1>
