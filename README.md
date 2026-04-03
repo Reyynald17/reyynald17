@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link/banner.png](https://avatars.githubusercontent.com/u/174253848?v=4)" width="100%" />
+  <img src="icon.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hai, Saya FΔR!</h1>
