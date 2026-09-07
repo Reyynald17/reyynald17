@@ -15,25 +15,25 @@ Developer × Founder — Project Arcadia
 
 ---
 
-## 🧠 Tentang Saya
+## Tentang Saya
 Saya adalah **Developer Arcadia** yang menggabungkan  
 **Tenaga Manusia** dengan **Kecerdasan Buatan (AI)** untuk menciptakan solusi yang efisien dan unik.
 
-⚡ Fokus utama:  
+ Fokus utama:  
 **Arcadian Roleplay Community**
 
 ◈ Apatheist — tetap fokus pada pembangunan dan engineering mindset.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reyynald17&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyynald17&layout=compact&theme=tokyonight" />
@@ -41,7 +41,7 @@ Saya adalah **Developer Arcadia** yang menggabungkan
 
 ---
 
-## 🔥 Activity
+## Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyynald17&theme=tokyo-night" />
 </p>
