@@ -4,61 +4,50 @@
 
 <h1 align="center">Hai, Saya FΔR!</h1>
 <p align="center">
-Developer × Founder — Project Arcadia
+Developer × Founder Arcadia NRP
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Dev-22c55e?style=for-the-badge">
   <img src="https://img.shields.io/badge/Project-Arcadia-7c3aed?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Human×AI-Integration-38bdf8?style=for-the-badge">
 </p>
 
 ---
 
 ## Tentang Saya
 Saya adalah **Developer Arcadia** yang menggabungkan  
-**Tenaga Manusia** dengan **Kecerdasan Buatan (AI)** untuk menciptakan solusi yang efisien dan unik.
+**Tenaga Manusia** dengan **Kecerdasan Buatan (AI)** untuk menciptakan solusi yang lebih baik dengan cara **se efisien mungkin**.
 
  Fokus utama:  
-**Arcadian Roleplay Community**
-
-◈ Apatheist — tetap fokus pada pembangunan dan engineering mindset.
-
+**Arcadian Roleplay Community** (Sejauh Ini)
 ---
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cpp" />
 </p>
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyynald17&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reyynald17&show_icons=true&theme=tokyonight" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyynald17&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyynald17&theme=tokyo-night" />
-</p>
-
----
-
-## ✦ Project Arcadia
-**Arcadian Roleplay Community**
+## **Arcadian Roleplay Community**
 
 > Membangun pengalaman roleplay yang mendalam dan terintegrasi  
-> dengan sistem **Human × AI**
+> dengan sistem **Human × AI GM Assist**
 
 **Tech:**
 - HTML5
 - CSS3
+- C++
 - C#
-- AI Integration
 - Bootstrap
 - TailwindCSS
 - JQuery
+- Node Js
+- React
